@@ -1,5 +1,5 @@
 # segmentDriver
- segmentDriver.h - Library for handling of a seven-segment display without drivers.
+ segmentDriver - arduino library that drives common cathode seven segment display without drivers.
 
 ```
       _a
