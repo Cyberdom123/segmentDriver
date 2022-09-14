@@ -1,5 +1,6 @@
 /*
-  segmentDriver.h - Library for handling of a seven-segment display without drivers.
+  segmentDriver.h -  arduino library that drives common cathode seven 
+                     segment display directly from microcontroller.
   Created by Dominik Michalczyk, September 11, 2022.
   Released into the public domain.
 */
