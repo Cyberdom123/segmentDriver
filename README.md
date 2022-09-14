@@ -1,6 +1,6 @@
 # segmentDriver
- segmentDriver - arduino library that drives common cathode seven segment display without drivers.
-
+ segmentDriver - arduino library that drives common cathode seven segment display
+ 		directly from microcontroller.
 ```
       _a
      __
